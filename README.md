@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 ### A little bit about me:
 
 I started my programming journey with C++ in my highschool, since then I was hooked to programming and never gave up on improving, since I liked programming I decided to move out from my own country Lithuania and came to Denmark to study Software engineering, currently I am learning java programming language in my 1st semester.
+###
+[![HitCount](http://hits.dwyl.com/ErrorByProject/ErrorByProject.svg)](http://hits.dwyl.com/ErrorByProject/ErrorByProject)
