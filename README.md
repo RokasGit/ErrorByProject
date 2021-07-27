@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 
 
 ###
-[![HitCount](http://hits.dwyl.com/ErrorByProject/ErrorByProject.svg)](http://hits.dwyl.com/ErrorByProject/ErrorByProject)
